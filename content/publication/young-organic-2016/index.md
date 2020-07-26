@@ -7,7 +7,7 @@ abstract = ""
 featured = false
 publication = "*Advanced Optical Materials*"
 tags = ["energy level tuning", "near-infrared solar harvesting", "organic salts", "transparent solar cells", "exciton binding energy"]
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/adom.201600102/abstract"
+#url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/adom.201600102/abstract"
 doi = "10.1002/adom.201600102"
 +++
 
