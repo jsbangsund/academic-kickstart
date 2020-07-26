@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate, Materials Science"
+role = "PhD, Materials Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,7 +34,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD Candidate in Materials Science"
+  course = "PhD in Materials Science"
   institution = "University of Minnesota"
   year = 2020
 
